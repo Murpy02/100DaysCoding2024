@@ -5,22 +5,10 @@
 package DaysOfCoding;
 
 
+
 public class Days3 {
-    public static void main(String[] args){
-    String Nama = "Murpy";
-    double Tinggi_Badan = 168;
-    int Berat_Badan = 65;
-    int Umur = 19;
-    boolean isIstudent = true;
-    
-    System.out.println("Nama: " +Nama);
-    System.out.println("Tinggi_Badan: " +Tinggi_Badan);
-    System.out.println("Berat_Badan: " +Berat_Badan);
-    System.out.println("Umur: " +Umur);
-    
-    
-    
-    
-    }    
-    
+    public static void main(String[] args) {
+        System.out.println("gass");
+        System.out.println("100DaysOfCoding");
+    }
 }
